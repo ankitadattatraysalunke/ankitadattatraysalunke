@@ -1,12 +1,17 @@
- 👋**Hi, I’m @ankitadattatraysalunke \n**
+ 👋 **Hi, I’m @ankitadattatraysalunke**
+ 
  👀 **I’m Looking for:**
  Full stack developer job
+ 
  🌱**I’m currently learning:**
  Nodejs
+ 
  💞️**I’m looking to collaborate on:**
  Fullstack Projects and Front-end-Projects
+ 
  📫 **How to reach me:**
  ankita.dattatray.salunke@gmail.com
+ 
  ⚡ **Fun fact:**
  I love to learn new technology
 
